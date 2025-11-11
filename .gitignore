@@ -130,7 +130,7 @@ dmypy.json
 
 # Data Science specific
 # Datasets (large files)
-*.csv
+#*.csv
 *.tsv
 *.json
 *.jsonl
